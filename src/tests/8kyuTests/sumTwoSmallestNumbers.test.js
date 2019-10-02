@@ -1,6 +1,6 @@
-import sumTwoSmallestNumbers from '../../js/8kyu/sumTwoSmallestNumbers/sumTwoSmallestNumbers';
+import sumTwoSmallestNumbers from '../../js/8kyu/3-sumTwoSmallestNumbers/sumTwoSmallestNumbers';
 
-test('Test the sum of the two smallest positive integers in a given array of minimum 4 positive integers', () => {
+test('Test the 1-sum of the two smallest positive integers in a given array of minimum 4 positive integers', () => {
    expect(sumTwoSmallestNumbers([5, 8, 12, 19, 22])).toBe(13);
    expect(sumTwoSmallestNumbers([15, 28, 4, 2, 43])).toBe(6);
    expect(sumTwoSmallestNumbers([3, 87, 45, 12, 7])).toBe(10);

@@ -9,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RdmijCgHxXHlNrWy0RHAaoxulF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -100,8 +100,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.test (1)" />
         <item itemvalue="npm.test" />
+        <item itemvalue="npm.test (1)" />
         <item itemvalue="npm.start" />
         <item itemvalue="Gulp.js.default" />
       </list>
@@ -121,6 +121,7 @@
       <workItem from="1570041689919" duration="1499000" />
       <workItem from="1570049035347" duration="73000" />
       <workItem from="1570049124309" duration="97000" />
+      <workItem from="1570049277804" duration="510000" />
     </task>
     <servers />
   </component>
